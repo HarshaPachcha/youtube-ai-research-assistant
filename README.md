@@ -77,7 +77,7 @@ Telegram → Controller Layer → Transcript Layer → Chunking → Embedding Re
 ![Image Alt](https://github.com/HarshaPachcha/youtube-ai-research-assistant/blob/e0f50af65c9198a26c163b417a7f359bfe5081ed/Screen%20Shots/Screenshot%202026-02-27%20112509.png)
 ![Image Alt](https://github.com/HarshaPachcha/youtube-ai-research-assistant/blob/e0f50af65c9198a26c163b417a7f359bfe5081ed/Screen%20Shots/Screenshot%202026-02-27%20112538.png)
 ![Image Alt](https://github.com/HarshaPachcha/youtube-ai-research-assistant/blob/e0f50af65c9198a26c163b417a7f359bfe5081ed/Screen%20Shots/Screenshot%202026-02-27%20112601.png)
-
+![Image Alt](https://github.com/HarshaPachcha/youtube-ai-research-assistant/blob/09c31485b4ec0cbd6050054eeb6aca9a5c51b168/Screen%20Shots/Screenshot%202026-02-27%20115059.png)
 ### 1️⃣ Clone Repository
 
 ```bash
