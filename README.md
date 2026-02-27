@@ -80,4 +80,4 @@ git clone https://github.com/HarshaPachcha/youtube-ai-research-assistant.git
 cd youtube-ai-research-assistant
 
 
-![image alt](https://github.com/HarshaPachcha/youtube-ai-research-assistant/blob/971325117308c1f29f312d1ef6402506cc8f8391/Screen%20Shots/Screenshot%202026-02-27%20112431.png)
+<img width="605" height="843" alt="image" src="https://github.com/user-attachments/assets/76183a5a-fb15-4599-96f0-bbefc39a708a" />
